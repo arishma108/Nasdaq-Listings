@@ -9,7 +9,6 @@ Notes:
 # Preparation 
 You need python plus pandas library tool installed to run the scripts. You also probably need to be on Linux/Unix or Mac for the shell scripts to work.
 
-all datasets 
 Creates all csv files and datapackage.json
 
 Run python script:
