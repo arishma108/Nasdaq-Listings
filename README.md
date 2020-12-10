@@ -1,5 +1,7 @@
 <img align="left" alt="SVG" src="https://github.com/arishma108/Nasdaq-Listings/blob/main/nasdaq1.svg?raw=true" width="300" height="300" />
 
+<p>
+
 # Listings
 List of companies in the NASDAQ exchanges.
 
